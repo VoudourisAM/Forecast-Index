@@ -36,9 +36,9 @@ Implementation and comparison of the following models:
 - Linear Regression
 - DecisionTreeRegressor
 - XGBRegressor
-Evaluation metrics:
-- MSE (Mean Squared Error)
-- RMSE (Root Mean Squared Error)
+- Evaluation metrics:
+  - MSE (Mean Squared Error)
+  - RMSE (Root Mean Squared Error)
 
 <img width="1477" height="484" alt="Screenshot 2025-12-02 160548" src="https://github.com/user-attachments/assets/68727f84-431a-413b-bac8-ec80c95fe41c" />
 <img width="1473" height="483" alt="Screenshot 2025-12-02 160606" src="https://github.com/user-attachments/assets/d164c79d-dff7-4721-b0a3-a8e59515f4d7" />
